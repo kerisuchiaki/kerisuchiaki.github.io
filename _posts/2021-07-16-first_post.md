@@ -1,20 +1,26 @@
 ---
-title: ÄãºÃ£¬ÊÀ½ç£¡
+title: ä½ å¥½ï¼Œä¸–ç•Œï¼
 date: 2022-03-26 10:34:00 +0800
-categories: [Ëæ±Ê]
-tags: [Éú»î]
+categories: [éšç¬”]
+tags: [ç”Ÿæ´»]
 pin: true
-author: ÍåÇøÊé¼ÇÌÀÄ·
+author: æ¹¾åŒºä¹¦è®°æ±¤å§†
 toc: true
 comments: true
 typora-root-url: ../../tomstillcoding.github.io
 math: false
 mermaid: true
 ---
-# ¸ĞĞ»¹Ø×¢¡« 
-ÕâÀï¿ÉÒÔ·Å´úÂëÆ¬¶ÎàŞ¡«
+# æ„Ÿè°¢å…³æ³¨ï½ 
+è¿™é‡Œå¯ä»¥æ”¾ä»£ç ç‰‡æ®µå™¢ï½
 ```c++
-//´úÂëÆ¬¶Î
+//ä»£ç ç‰‡æ®µ
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    cout<<"hello world<<endl;
+    return 0;
+}
 int main(){
   hello world;
 }
