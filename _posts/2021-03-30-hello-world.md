@@ -4,7 +4,7 @@ date: 2022-03-26 10:34:00 +0800
 categories: [随笔]
 tags: [生活]
 pin: true
-author: 湾区书记汤姆
+author: kerisuchiaki
 
 toc: true
 comments: true
@@ -25,7 +25,9 @@ image:
 ```c++
 //代码片段
 int main(){
-  hello world;
+  cout<<"hello world\n";
+  // hello world;
+  return 0;
 }
 ```
 
