@@ -59,6 +59,7 @@ int main(){
 }
 ```
 还有动态规划：
+完全背包
 ```c
 #include<bits/stdc++.h>
 using namespace std;
