@@ -1,5 +1,5 @@
 ---
-title: 你好，世界！
+title: 博客测试
 date: 2022-03-26 10:34:00 +0800
 categories: [随笔]
 tags: [生活]
@@ -16,6 +16,7 @@ mermaid: true
 ```c++
 //代码片段
 hello world
+这是测试
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
