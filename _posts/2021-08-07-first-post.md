@@ -30,4 +30,3 @@ int main(){
 
 ![算法](/pictrue/Thank_you_drop_kick.jpg)
 
-=======
